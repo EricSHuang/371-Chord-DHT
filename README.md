@@ -8,6 +8,9 @@ their file input/output counterparts.*
 
 ### Input
 The input format is as follows:
+
+| Input | Description |
+| --- | --- |
 | **S** | Hash space [0, ... , S] where S = 2^K-1 and k < 10 |
 | **N** | Number of Nodes |
 | **M** | Number of Keys |
@@ -15,7 +18,7 @@ The input format is as follows:
 | **k1, k2, ..., kM** | Hashed Keys |
 | -1, -1 | END of Input |
 
-*A sample input has been provided as input.txt*
+A sample input has been provided as input.txt
 
 ### Output
 The given *input.txt* would output *output.txt*
